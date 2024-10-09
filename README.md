@@ -1,0 +1,2 @@
+# corejavadaywiseprogram
+leraning perpose
